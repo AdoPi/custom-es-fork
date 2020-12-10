@@ -86,7 +86,7 @@ extern const uint8_t press_start_svg_data[];
 extern const uint16_t option_arrow_svg_size;
 extern const uint8_t option_arrow_svg_data[];
 
-extern const uint16_t splash_svg_size;
+extern const uint32_t splash_svg_size;
 extern const uint8_t splash_svg_data[];
 
 extern const uint16_t white_png_size;
