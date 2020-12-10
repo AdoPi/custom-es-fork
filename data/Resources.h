@@ -56,7 +56,7 @@ extern const uint8_t button_png_data[];
 extern const uint16_t thumbs_up_yellow_svg_size;
 extern const uint8_t thumbs_up_yellow_svg_data[];
 
-extern const uint16_t splash_svg_size;
+extern const uint32_t splash_svg_size;
 extern const uint8_t splash_svg_data[];
 
 extern const uint16_t busy_0_png_size;
